@@ -1,0 +1,6 @@
+number of steps total:    2000
+number of laser steps:    1000
+number of cells:          2000
+time step [s]:            5.0e-04
+irradiance [W/m^3]:       5.0e+06
+thicknesses [m]:          [0.0026, 0.0094]
